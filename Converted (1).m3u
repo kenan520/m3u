@@ -1,128 +1,128 @@
 #EXTM3U
-#EXTINF:-1, DOMA group-title="Balkan" tvg-logo="https://pro-ping.hr/wp-content/uploads/2024/01/doma.webp", DOMA
-https://vavoo.to/play/1187743428/index.m3u8
+#EXTINF:-1, DOMA c tvg-logo="https://pro-ping.hr/wp-content/uploads/2024/01/doma.webp", DOMA
+https://vavoo.to/play/1039949502/index.m3u8
 
 #EXTINF:-1, HBO group-title="Balkan" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/de/HBO_logo.svg", HBO
-https://vavoo.to/play/3448881055/index.m3u8
+https://vavoo.to/play/3988502808/index.m3u8
 
 #EXTINF:-1, HBO 2 group-title="Balkan" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5e/HBO_2_%282002%29.svg/revision/latest/scale-to-width-down/1000?cb=20221004204522", HBO 2
-https://vavoo.to/play/961979970/index.m3u8
+https://vavoo.to/play/2315061688/index.m3u8
+
+#EXTINF:-1, HBO 3 group-title="Balkan" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f3/HBO-3.svg/revision/latest/scale-to-width-down/1000?cb=20230208005230", HBO 3
+https://vavoo.to/play/3030196232/index.m3u8
 
 #EXTINF:-1, NOVA BH group-title="Balkan" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/90/Nova_BH_2021_logo.svg", NOVA BH
-https://vavoo.to/play/3696191835/index.m3u8
+https://vavoo.to/play/663124824/index.m3u8
 
 #EXTINF:-1, NOVA M group-title="Balkan" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Nova_M_2021_logo.svg/800px-Nova_M_2021_logo.svg.png", NOVA M
-https://vavoo.to/play/2467043499/index.m3u8
+https://vavoo.to/play/3470043142/index.m3u8
 
 #EXTINF:-1, NOVA SERIES group-title="Balkan" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7a/UM-sajt-nova-series-250x120.png/revision/latest?cb=20221111130708", NOVA SERIES
-https://vavoo.to/play/457932902/index.m3u8
+https://vavoo.to/play/1184051403/index.m3u8
 
 #EXTINF:-1, PINK group-title="Balkan" tvg-logo="https://static.hrvatskitelekom.hr/webresources/images/maxtv-new/programi/pink.png", PINK
-https://vavoo.to/play/125730526/index.m3u8
+https://vavoo.to/play/1794719322/index.m3u8
 
-#EXTINF:-1, PINK BH 1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4f/Pink_BH_logo.png", PINK BH
-https://vavoo.to/play/2869496432/index.m3u8
+#EXTINF:-1, PINK BH 1 group-title="Balkan" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4f/Pink_BH_logo.png", PINK BH
+https://vavoo.to/play/1354766451/index.m3u8
 
-#EXTINF:-1, RTRS tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/16/RTRS.svg/revision/latest?cb=20171201103929", RTRS
+#EXTINF:-1, RTRS group-title="Balkan" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/16/RTRS.svg/revision/latest?cb=20171201103929", RTRS
 https://vavoo.to/play/173136522/index.m3u8
 
-#EXTINF:-1, RTS 1 tvg-logo="https://serbia.mom-gmr.org/uploads/_processed_/7/f/csm_5015_73fdedd5f8.png", RTS 1
+#EXTINF:-1, RTS 1 group-title="Balkan" tvg-logo="https://serbia.mom-gmr.org/uploads/_processed_/7/f/csm_5015_73fdedd5f8.png", RTS 1
 https://vavoo.to/play/3977868689/index.m3u8
 
-#EXTINF:-1, RTS 2 tvg-logo="https://tvprofil.com/img/kanali-logo/RTS2_logo.png?1426245493", RTS 2
+#EXTINF:-1, RTS 2 group-title="Balkan" tvg-logo="https://tvprofil.com/img/kanali-logo/RTS2_logo.png?1426245493", RTS 2
 https://vavoo.to/play/2864254785/index.m3u8
 
-#EXTINF:-1, RTS 3 tvg-logo="https://tvprofil.com/img/kanali-logo/RTS2_logo.png?1426245493", RTS 3
+#EXTINF:-1, RTS 3 group-title="Balkan" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/82/RTS_3.svg/revision/latest?cb=20180130132234", RTS 3
 https://www.kool.to/play/2547590897/index.m3u8
 
-#EXTINF:-1, RTS DRAMA tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/68/RTS_Drama.svg/revision/latest?cb=20191222214539", RTS DRAMA
+#EXTINF:-1, RTS DRAMA group-title="Balkan" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/68/RTS_Drama.svg/revision/latest?cb=20191222214539", RTS DRAMA
 https://vavoo.to/play/1047810031/index.m3u8
 
-#EXTINF:-1, RTL tvg-logo="https://static.hrvatskitelekom.hr/webresources/images/maxtv-new/programi/250x250_rtl_hrvatska.png", RTL
+#EXTINF:-1, RTL group-title="Balkan" tvg-logo="https://static.hrvatskitelekom.hr/webresources/images/maxtv-new/programi/250x250_rtl_hrvatska.png", RTL
 https://vavoo.to/play/3157975502/index.m3u8
 
-#EXTINF:-1, RTL 2 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8c/RTL_2_Logo.svg/revision/latest?cb=20200731151215", RTL 2
+#EXTINF:-1, RTL 2 group-title="Balkan" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8c/RTL_2_Logo.svg/revision/latest?cb=20200731151215", RTL 2
 https://vavoo.to/play/1457742501/index.m3u8
 
-#EXTINF:-1, RTL CRIME tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/96/RTL_Crime_2020.svg/revision/latest?cb=20210511112844", RTL CRIME
+#EXTINF:-1, RTL CRIME group-title="Balkan" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/96/RTL_Crime_2020.svg/revision/latest?cb=20210511112844", RTL CRIME
 https://vavoo.to/play/2742070672/index.m3u8
 
-#EXTINF:-1, RTL PLUS tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/09/RTL_Plus_Croatia.png/revision/latest?cb=20091226185115", RTL PLUS
+#EXTINF:-1, RTL PLUS group-title="Balkan" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/09/RTL_Plus_Croatia.png/revision/latest?cb=20091226185115", RTL PLUS
 https://vavoo.to/play/4134849174/index.m3u8
 
-#EXTINF:-1, RTL LIVING tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7b/RTL_Living_Logo_2021_stacked.svg/revision/latest?cb=20211020184100", RTL LIVING
-https://vavoo.to/play/370959430/index.m3u8
+#EXTINF:-1, RTL LIVING group-title="Balkan" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7b/RTL_Living_Logo_2021_stacked.svg/revision/latest?cb=20211020184100", RTL LIVING
+https://vavoo.to/play/2983585576/index.m3u8
 
-#EXTINF:-1, RTL PASSION tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/ae/RTL_Passion_Logo_2021_stacked.svg/revision/latest?cb=20211021182958", RTL PASSION
+#EXTINF:-1, RTL PASSION group-title="Balkan" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/ae/RTL_Passion_Logo_2021_stacked.svg/revision/latest?cb=20211021182958", RTL PASSION
 https://vavoo.to/play/2764286316/index.m3u8
 
-#EXTINF:-1, RTL ADRIA tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/72/RTL_Adria_2020.svg/revision/latest?cb=20210511114318", RTL ADRIA
+#EXTINF:-1, RTL ADRIA group-title="Balkan" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/72/RTL_Adria_2020.svg/revision/latest?cb=20210511114318", RTL ADRIA
 https://vavoo.to/play/1016762712/index.m3u8
 
-#EXTINF:-1, PINK BH 1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/60/Logo_rtl_kockica3.png/revision/latest?cb=20180515161905", RTL KOCKICA
+#EXTINF:-1, PINK BH 1 group-title="Balkan" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/60/Logo_rtl_kockica3.png/revision/latest?cb=20180515161905", RTL KOCKICA
 https://vavoo.to/play/1930307647/index.m3u8
 
-#EXTINF:-1, CINESTAR tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/18/CineStar_side.webp/revision/latest?cb=20230501203314", CINESTAR
-https://vavoo.to/play/3163050246/index.m3u8
+#EXTINF:-1, CINESTAR ACTION group-title="Balkan" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b5/CineStar_TV_action_logo.png/revision/latest?cb=20200423112452", CINESTAR ACTION
+https://vavoo.to/play/1294430320/index.m3u8
 
-#EXTINF:-1, CINESTAR ACTION tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b5/CineStar_TV_action_logo.png/revision/latest?cb=20200423112452", CINESTAR ACTION
-https://vavoo.to/play/4050858572/index.m3u8
+#EXTINF:-1, CINESTAR FANTASY group-title="Balkan" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5b/CineStar_Fantasy.png/revision/latest?cb=20210319103458", CINESTAR FANTASY
+https://vavoo.to/play/2089535721/index.m3u8
 
-#EXTINF:-1, CINESTAR FANTASY tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5b/CineStar_Fantasy.png/revision/latest?cb=20210319103458", CINESTAR FANTASY
-https://vavoo.to/play/1398333484/index.m3u8
+#EXTINF:-1, CINESTAR COMEDY group-title="Balkan" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/af/CineStar_Comedy_%26_Family.png/revision/latest?cb=20210319102902", CINESTAR COMEDY
+https://vavoo.to/play/1202980829/index.m3u8
 
-#EXTINF:-1, CINESTAR COMEDY tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/af/CineStar_Comedy_%26_Family.png/revision/latest?cb=20210319102902", CINESTAR COMEDY
-https://vavoo.to/play/205595950/index.m3u8
+#EXTINF:-1, CINESTAR PREMIERE 1 group-title="Balkan" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8c/Cinestar_Premiere_1_HD.png/revision/latest?cb=20210319104103", CINESTAR PREMIERE 1
+https://vavoo.to/play/2090315961/index.m3u8
 
-#EXTINF:-1, CINESTAR PREMIERE 1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8c/Cinestar_Premiere_1_HD.png/revision/latest?cb=20210319104103", CINESTAR PREMIERE 1
-https://vavoo.to/play/2771903431/index.m3u8
+#EXTINF:-1, CINESTAR PREMIERE 2 group-title="Balkan" tvg-logo="hhttps://static.wikia.nocookie.net/logopedia/images/9/9c/CineStar_TV_premiere_2_logo.png/revision/latest?cb=20221115191117", CINESTAR PREMIERE 2
+https://vavoo.to/play/993512041/index.m3u8
 
-#EXTINF:-1, CINESTAR PREMIERE 2 tvg-logo="hhttps://static.wikia.nocookie.net/logopedia/images/9/9c/CineStar_TV_premiere_2_logo.png/revision/latest?cb=20221115191117", CINESTAR PREMIERE 2
-https://vavoo.to/play/3801585943/index.m3u8
+#EXTINF:-1, CINESTAR 1 group-title="Balkan" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/18/CineStar_side.webp/revision/latest?cb=20230501203314", CINESTAR 1
+https://vavoo.to/play/3780174251/index.m3u8
 
-#EXTINF:-1, CINESTAR 1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/18/CineStar_side.webp/revision/latest?cb=20230501203314", CINESTAR 1
-https://vavoo.to/play/1339452836/index.m3u8
+#EXTINF:-1, CINESTAR 2 group-title="Balkan" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/19/CineStar_2_%282023%29.svg/revision/latest?cb=20231214202401", CINESTAR 2
+https://vavoo.to/play/3677791084/index.m3u8
 
-#EXTINF:-1, CINESTAR 2 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/19/CineStar_2_%282023%29.svg/revision/latest?cb=20231214202401", CINESTAR 2
-https://huhu.to/play/1341386598/index.m3u8
+#EXTINF:-1, CINEMANIA group-title="Balkan" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/df/Cinemania2022CC.png/revision/latest?cb=20240314212205", CINEMANIA
+https://vavoo.to/play/2776919121/index.m3u8
 
-#EXTINF:-1, CINEMANIA tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/df/Cinemania2022CC.png/revision/latest?cb=20240314212205", CINEMANIA
-https://vavoo.to/play/1181026348/index.m3u8
-
-#EXTINF:-1, CINEMAX tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/62/Cinemax_HD_%282016%29.svg/revision/latest?cb=20171214103530", CINEMAX
+#EXTINF:-1, CINEMAX group-title="Balkan" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/62/Cinemax_HD_%282016%29.svg/revision/latest?cb=20171214103530", CINEMAX
 https://vavoo.to/play/2239918721/index.m3u8
 
-#EXTINF:-1, OBN tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/fa/OBN.jpg/revision/latest/scale-to-width-down/1000?cb=20181004100325", OBN
-https://vavoo.to/play/4004971127/index.m3u8
+#EXTINF:-1, OBN group-title="Balkan" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/fa/OBN.jpg/revision/latest/scale-to-width-down/1000?cb=20181004100325", OBN
+https://vavoo.to/play/1749341885/index.m3u8
 
-#EXTINF:-1, BN MIUSIC tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/ab/BN_Music_logo.gif/revision/latest?cb=20190207185003", BN MIUSIC
-https://vavoo.to/play/3394287085/index.m3u8
+#EXTINF:-1, BN MIUSIC group-title="Balkan" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/ab/BN_Music_logo.gif/revision/latest?cb=20190207185003", BN MIUSIC
+https://vavoo.to/play/446208285/index.m3u8
 
-#EXTINF:-1, DISCOVERY tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/49/Discovery_Channel_2009.png/revision/latest?cb=20091118171916", DISCOVERY
+#EXTINF:-1, DISCOVERY group-title="Balkan" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/49/Discovery_Channel_2009.png/revision/latest?cb=20091118171916", DISCOVERY
 https://vavoo.to/play/2556336719/index.m3u8
 
 #EXTINF:-1, LUD ZBUNJEN NORMALAN group-title="Balkan" tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/38/Lud_zbunjen_normalan_1.jpg", LUD ZBUNJEN NORMALAN
 https://www.kool.to/play/1205199104/index.m3u8
 
-#EXTINF:-1, IZVORNA TV tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/83/IZVORNA_TV.png", IZVORNA TV
+#EXTINF:-1, IZVORNA TV group-title="Balkan" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/83/IZVORNA_TV.png", IZVORNA TV
 https://www.kool.to/play/2367813923/index.m3u8
 
-#EXTINF:-1, OTV VALENTINO tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/52/Valentino_OTV_-_Logo_1.png/revision/latest?cb=20240226220702", OTV VALENTINO
-https://vavoo.to/play/132795216/index.m3u8
+#EXTINF:-1, OTV VALENTINO group-title="Balkan" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/52/Valentino_OTV_-_Logo_1.png/revision/latest?cb=20240226220702", OTV VALENTINO
+https://vavoo.to/play/2426904498/index.m3u8
 
-#EXTINF:-1, HAYATOVCI tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9f/Hayatovci_-_Novi_logo.png/revision/latest?cb=20240223103424", HAYATOVCI
-https://vavoo.to/play/4189449301/index.m3u8
+#EXTINF:-1, HAYATOVCI group-title="Balkan" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9f/Hayatovci_-_Novi_logo.png/revision/latest?cb=20240223103424", HAYATOVCI
+https://vavoo.to/play/459328591/index.m3u8
 
-#EXTINF:-1, Zadruga 1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/4c/Zadruga_Live_1.png/revision/latest?cb=20210318145247", Zadruga 1
+#EXTINF:-1, Zadruga 1 group-title="Balkan" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/4c/Zadruga_Live_1.png/revision/latest?cb=20210318145247", Zadruga 1
 https://webtvstream.bhtelecom.ba/zadruga_live1.m3u8
 
-#EXTINF:-1, Zadruga 2 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/03/Zadruga_Live_2.png/revision/latest?cb=20210318145440", Zadruga 2
+#EXTINF:-1, Zadruga 2 group-title="Balkan" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/03/Zadruga_Live_2.png/revision/latest?cb=20210318145440", Zadruga 2
 https://webtvstream.bhtelecom.ba/zadruga_live2.m3u8
 
-#EXTINF:-1, Zadruga 3 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9d/Zadruga_Live_3.png/revision/latest?cb=20210318145745", Zadruga 3
+#EXTINF:-1, Zadruga 3 group-title="Balkan" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9d/Zadruga_Live_3.png/revision/latest?cb=20210318145745", Zadruga 3
 https://webtvstream.bhtelecom.ba/zadruga_live3.m3u8
 
-#EXTINF:-1, Zadruga 4 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/95/Zadruga_Live_4.png/revision/latest?cb=20210318145954", Zadruga 4
+#EXTINF:-1, Zadruga 4 group-title="Balkan" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/95/Zadruga_Live_4.png/revision/latest?cb=20210318145954", Zadruga 4
 https://webtvstream.bhtelecom.ba/zadruga_live4.m3u8
 
 
@@ -308,6 +308,3 @@ http://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=358025&output=16
 
 #EXTINF:-1 tvg-id="MotorTrendTV.it" tvg-chno="59" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/motortrend.png" group-title="Italia",Motor Trend
 https://amg16146-wbdi-amg16146c10-samsung-it-1843.playouts.now.amagi.tv/playlist/amg16146-warnerbrosdiscoveryitalia-motortrend-samsungit/playlist.m3u8
-
-#EXTINF:-1, SKY ACTION tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/ae/Sky_Action_Germany.svg/revision/latest?cb=20100522191533", SKY ACTION
-https://vavoo.to/play/2242741766/index.m3u8
