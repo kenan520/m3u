@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1, DOMA c tvg-logo="https://pro-ping.hr/wp-content/uploads/2024/01/doma.webp", DOMA
+#EXTINF:-1, DOMA group-title="Balkan" tvg-logo="https://pro-ping.hr/wp-content/uploads/2024/01/doma.webp", DOMA
 https://vavoo.to/play/1039949502/index.m3u8
 
 #EXTINF:-1, HBO group-title="Balkan" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/de/HBO_logo.svg", HBO
